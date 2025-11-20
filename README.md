@@ -25,14 +25,6 @@ It allows users to view trains, book tickets, cancel tickets, check seat availab
 
 ---
 
-## 📂 Project Structure
-RailwaySystem.java
-├── Train Class
-├── Ticket Class
-└── RailwaySystem (Main Menu + Operations)
-
----
-
 ## ▶️ How to Run
 1. Copy the code into a file named **RailwaySystem.java**  
 2. Compile using:
